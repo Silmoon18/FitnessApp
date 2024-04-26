@@ -1,0 +1,16 @@
+bcrypt
+docutils
+kivy==2.3.0
+kivy-deps.angle
+kivy-deps.glew
+kivy-deps.sdl2
+Kivy-Garden
+kivymd==1.2.0
+langchain
+logging
+mysql-connector-python
+pillow
+pygments
+pypiwin32
+scipy
+uuid
