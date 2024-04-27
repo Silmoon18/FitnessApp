@@ -116,7 +116,11 @@ CREATE TABLE chats (
 ```
 4. Extract assets
     -Extract the assets file and put the files in the same directory as the `fitness app.py` and `fitness_app.kv` files
-6. Run the app:
+   
+6. Add OpenAI API key:
+   -Add your Openai API key in the `.env` file for the chatbot feature to work (optional)
+   
+8. Run the app:
    ```
    python "fitness app.py"
    ```
