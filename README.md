@@ -133,9 +133,6 @@ CREATE TABLE chats (
 - MySQL
 - OpenAI API
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Acknowledgements
 
@@ -143,6 +140,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 - [KivyMD](https://kivymd.readthedocs.io/)
 - [OpenAI](https://openai.com/)
 
-## Contact
+## Full Breakdown, Design, Analysis, Screenshots and Testing of the final app
 
-For any inquiries or questions, please contact [hssilmoon.18@gmail.com](mailto:hssilmoon.18@gmail.com).
+- [Project Breakdown](https://github.com/Silmoon18/FitnessApp/blob/main/Silmoon%20Hossain_NEA%20Project%20(1).pdf))
